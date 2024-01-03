@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons>
+	<addon id="skin.arctic.fuse" name="Arctic Fuse" provider-name="jurialmunkey" version="0.4.47~omega">
+		<requires>
+		  <import addon="xbmc.gui" version="5.17.0"/>
+	  </requires>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Estuary Edited skin by Cadmar based on Estuary skin by phil65.</summary>
+			<description lang="en">This is a test skin. You are responsible for what happens to your KODI.</description>
+			<platform>all</platform>
+			<license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
+			<forum />
+			<source />
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+</addons>
